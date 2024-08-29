@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Mutiu Adegboye PhD 😀</h1>
+<h1 align="center">I'm Mutiu Adegboye 😀</h1>
 <h4 align="center">I'm a Machine Learning Engineer at INTELLINAVIX, ABERDEEN</h4>
 
 
@@ -36,9 +36,9 @@
 #### You can also find me on: 
 
 [<img align="left" alt="Mutiu Adegboye | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Mutiu Adegboye | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 
 <!-- <hr>
-[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 [<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
@@ -49,9 +49,9 @@
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/mutiu-adegboye-354177131/
+[twitter]: https://x.com/MutiuAdegb87303
 
 <!-- <hr>
-[twitter]: https://twitter.com/bappy913873
 [Instagram]: https://www.instagram.com/entbappy/
 [YouTube]: https://www.youtube.com/dswithbappy
 [LeetCode]: https://leetcode.com/entbappy/
