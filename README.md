@@ -15,7 +15,7 @@
 
 👉[My Online Portfolio](https://github.com/Mutiu123?tab=repositories)
 
-- 📫 Reach out to me [here](adegboyemuiu@gmail.com)
+- 📫 Reach out to me [here](mailto:adegboyemuiu@gmail.com)
 
 - 📄 Know about my experiences [here](https://).
 
